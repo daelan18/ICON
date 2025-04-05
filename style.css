@@ -1,0 +1,21 @@
+.bi.bi-umbrella-fill {
+    fill: red;
+  }
+  .bi.bi-amazon {
+    fill: aqua;
+  }
+  .bi.bi-microsoft {
+    color: azure;
+  }
+  
+  body {
+    place-items: center;
+    background-image: 
+    linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+    url('https://img.freepik.com/premium-photo/background-realities-unleashed-rangercore-radiant-backgrounds_481747-25374.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  }
+  
